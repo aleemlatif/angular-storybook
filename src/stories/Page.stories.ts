@@ -7,7 +7,7 @@ import Header from './header.component';
 import Page from './page.component';
 
 export default {
-  title: 'Aleem : Angular Storybook Page : Example/Page',
+  title: 'storybook/Pages',
   component: Page,
   parameters: {
     // More on Story layout: https://storybook.js.org/docs/angular/configure/story-layout
